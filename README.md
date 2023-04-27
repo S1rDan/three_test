@@ -8,6 +8,6 @@ npm init
 npm install
 
 # Run
-npm npm run dev
+npm run dev
 ```
 
